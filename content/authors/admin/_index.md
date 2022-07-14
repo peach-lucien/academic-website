@@ -1,6 +1,6 @@
 ---
 role: Research Associate / Postdoctoral Researcher
-avatar_filename: passportphoto.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include network science, machine learning, dynamical
   systems and neuroscience.
 interests:
@@ -44,6 +44,6 @@ highlight_name: true
 title: Robert Peach
 email: robertlucienpeach@gmail.com
 ---
-I am a researcher specialising in network science and machine learning, and its application to neuroscience at the University Klinik W{"u}rzrbug. The central theme of my research is to understand how seemingly simple interactions can induce complex dynamics and behaviours, through the development of new mathematical and computational tools. 
+I am a researcher specialising in network science and machine learning, and its application to neuroscience at the University Klinik Wuerzburg. The central theme of my research is to understand how seemingly simple interactions can induce complex dynamics and behaviours, through the development of new mathematical and computational tools. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

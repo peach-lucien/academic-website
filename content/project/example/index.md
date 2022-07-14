@@ -10,12 +10,13 @@ summary: The widespread adoption of online courses opens opportunities for
   was to first understand how students transitioned through courses, and then to
   find ways to predict performance and later optimise the student experience.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 featured: false
 external_link: ""
 url_slides: ""
 title: Learning Analytics
-tags: []
+tags:
+  - LearningAnalytics
 links:
   - icon: twitter
     icon_pack: fab

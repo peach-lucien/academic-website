@@ -4,9 +4,9 @@ title: Non-invasive suppression of essential tremor via phase-locked disruption
 publication_types:
   - "2"
 authors:
-  - Sebastian R Schreglmann*
-  - David Wang*
-  - Robert L Peach*
+  - Sebastian R Schreglmann
+  - David Wang
+  - Robert L Peach
   - Junheng Li
   - Xu Zhang
   - Anna Latorre
@@ -20,8 +20,11 @@ authors:
   - Kailash P Bhatia
   - Nir Grossman
 author_notes:
-  - "*firstauthor"
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
 doi: https://doi.org/10.1038/s41467-020-20581-7
+publication: Nature communications 12 (1), 1-15
 abstract: Aberrant neural oscillations hallmark numerous brain disorders. Here,
   we first report a method to track the phase of neural oscillations in
   real-time via endpoint-corrected Hilbert transform (ecHT) that mitigates the

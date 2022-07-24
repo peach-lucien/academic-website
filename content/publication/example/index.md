@@ -37,9 +37,9 @@ author_notes:
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Nature Communications
+publication: Nature Communications 13 (1), 1-11
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 title: Relative, local and global dimension in complex networks
 tags:
@@ -51,7 +51,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1038/s41467-022-30705-w

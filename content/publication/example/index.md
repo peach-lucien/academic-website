@@ -17,7 +17,7 @@ abstract: Dimension is a fundamental property of objects and the space in which
   scales at which the graph structure is predictive of infectivity. We further
   apply our dimension measures to neuronal networks, economic trade, social
   networks, ocean flows, and to the comparison of random graphs.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -43,9 +43,11 @@ date: 2022-06-16T00:00:00.000Z
 url_slides: ""
 title: Relative, local and global dimension in complex networks
 tags:
-  - Networks
+  - networks
+categories:
+  - networks
 projects:
-  - example
+  - networks
 image:
   caption: The relative, local and global dimension.
   focal_point: ""
@@ -56,13 +58,3 @@ url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1038/s41467-022-30705-w
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

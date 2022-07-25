@@ -27,11 +27,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: networkscience
-      tag: networkscience
-    - name: neuroscience
+    - name: Network Science
+      tag: networks
+    - name: Neuroscience
       tag: neuroscience
-    - name: learninganalytics
+    - name: Learning Analytics
       tag: learninganalytics
       
 design:

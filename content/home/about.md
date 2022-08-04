@@ -2,7 +2,7 @@
 widget: about
 headless: true
 weight: 20
-title: Robert Peach
+title: ""
 active: true
 author: admin
 widget_id: biography

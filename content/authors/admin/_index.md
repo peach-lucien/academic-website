@@ -44,6 +44,6 @@ highlight_name: true
 title: Robert Peach
 email: robertlucienpeach@gmail.com
 ---
-I am a researcher specialising in network science and machine learning, and its application to neuroscience at the University Klinik Wuerzburg. The central theme of my research is to understand how seemingly simple interactions can induce complex dynamics and behaviours, through the development of new mathematical and computational tools. 
+Researcher working on machine learning approaches to investigate and construct complex networks at [University Hospital Wurzburg](https://www.ukw.de/startseite/) and [Imperial College London](https://www.imperial.ac.uk/). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Currently, in my postdoc I am focused on understanding the higher-order non-linear mechanisms that underpin brain dynamics and its role in health and disease.

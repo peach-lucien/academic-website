@@ -1,7 +1,7 @@
 ---
 role: Research Associate / Postdoctoral Researcher
 avatar_filename: avatar.jpg
-bio: My research interests include network science, machine learning, dynamical
+bio: Research interests include network science, machine learning, dynamical
   systems and neuroscience.
 interests:
   - Network Science

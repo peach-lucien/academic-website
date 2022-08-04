@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: earth
-  theme_night: earth
+  theme_day: Strawberry
+  theme_night: Earth
   font: minimal
-  font_size: M
+  font_size: S
 
 # SEO
 

@@ -1,9 +1,16 @@
 ---
-title: "[PDF] from frontiersin.org Listening to mental health crisis needs at
-  scale: using Natural Language Processing to understand and evaluate a mental
-  health crisis text messaging service"
+title: "Listening to mental health crisis needs at scale: using Natural Language
+  Processing to understand and evaluate a mental health crisis text messaging
+  service"
 publication_types:
-  - "0"
+  - "2"
+authors:
+  - Zhaolu Liu
+  - Robert L Peach
+  - Emma L Lawrance
+  - Ariele Noble
+  - Mark A Ungless
+  - Mauricio Barahona
 doi: https://doi.org/10.3389/fdgth.2021.779091
 publication: "Frontiers in Digital Health 3 (2021): 779091"
 abstract: Mental health is a growing public health issue that requires a

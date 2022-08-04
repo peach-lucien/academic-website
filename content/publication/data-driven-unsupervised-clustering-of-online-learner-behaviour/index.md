@@ -8,6 +8,7 @@ authors:
   - David Lefevre
   - Mauricio Barahona
 doi: https://doi.org/10.1038/s41539-019-0054-0
+publication: npj Science of Learning
 abstract: "The widespread adoption of online courses opens opportunities for
   analysing learner behaviour and optimising web-based learning adapted to
   observed usage. Here, we introduce a mathematical framework for the analysis

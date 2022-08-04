@@ -49,7 +49,7 @@ categories:
 projects:
   - networks
 image:
-  filename: lancet_figure.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 summary: Dynamic contact networks are robust predictors of individual patient

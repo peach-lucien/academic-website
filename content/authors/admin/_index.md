@@ -3,7 +3,9 @@ role: Principal Investigator
 avatar_filename: avatar.jpg
 bio: Group Leader of Higher-Order Neural Dynamics Lab
 interests:
-  - Graph Theory; Geometric Deep Learning; Neural Networks
+  - Graph Theory
+  - Geometric Deep Learning
+  - Neural Networks
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,10 +43,8 @@ highlight_name: true
 title: Robert Peach
 email: robertlucienpeach@gmail.com
 ---
-Researcher fascninated by the emergence of neural dynamics from neural network structure and their role in behaviourally relevant computation.
+Researcher fascinated by the emergence of neural dynamics from neural network structure and their role in behaviourally relevant computation.
 
 I develop the theory and build mathematical tools to explore the role of higher-order inteactions and their role in driving non-linearity and compositionality in neural dynamics.
 
-I am a group leader at [University Hospital ](https://www.ukw.de/startseite/)[Würzburg](https://www.ukw.de/kliniken-zentren/)[](https://www.ukw.de/startseite/) and a Honorary Senior Research Fellow at [Imperial College London](https://www.imperial.ac.uk/). 
-
-Currently, in my postdoc I am focused on understanding the **higher-order non-linear mechanisms** that underpin brain dynamics and its role in health and disease.
+I am a group leader at [University Hospital ](https://www.ukw.de/startseite/)[Würzburg](https://www.ukw.de/kliniken-zentren/)[](https://www.ukw.de/startseite/) and a Honorary Senior Research Fellow at [Imperial College London](https://www.imperial.ac.uk/).

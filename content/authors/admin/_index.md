@@ -44,6 +44,6 @@ highlight_name: true
 title: Robert Peach
 email: robertlucienpeach@gmail.com
 ---
-Researcher working on machine learning approaches to **investigate and construct complex networks** at [University Hospital ](https://www.ukw.de/startseite/)[Würzburg](https://www.ukw.de/kliniken-zentren/)[](https://www.ukw.de/startseite/) and [Imperial College London](https://www.imperial.ac.uk/). 
+Researcher working on machine learning approaches to **investigate and construct complex networks** at [University Hospital ](https://www.ukw.de/startseite/)[Würzburg](https://www.ukw.de/kliniken-zentren/)[](https://www.ukw.de/startseite/) and [Imperial College London](https://www.imperial.ac.uk/). .
 
 Currently, in my postdoc I am focused on understanding the **higher-order non-linear mechanisms** that underpin brain dynamics and its role in health and disease.

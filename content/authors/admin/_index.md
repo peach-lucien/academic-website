@@ -1,12 +1,9 @@
 ---
-role: Research Associate / Postdoctoral Researcher
+role: Principal Investigator
 avatar_filename: avatar.jpg
-bio: Research interests include network science, machine learning, dynamical
-  systems and neuroscience.
+bio: Group Leader of Higher-Order Neural Dynamics Lab
 interests:
-  - Network Science
-  - Artificial Intelligence
-  - Neuroscience
+  - Graph Theory; Geometric Deep Learning; Neural Networks
 social:
   - icon: envelope
     icon_pack: fas
@@ -44,6 +41,10 @@ highlight_name: true
 title: Robert Peach
 email: robertlucienpeach@gmail.com
 ---
-Researcher working on machine learning approaches to **investigate and construct complex networks** at [University Hospital ](https://www.ukw.de/startseite/)[Würzburg](https://www.ukw.de/kliniken-zentren/)[](https://www.ukw.de/startseite/) and [Imperial College London](https://www.imperial.ac.uk/). .
+Researcher fascninated by the emergence of neural dynamics from neural network structure and their role in behaviourally relevant computation.
+
+I develop the theory and build mathematical tools to explore the role of higher-order inteactions and their role in driving non-linearity and compositionality in neural dynamics.
+
+I am a group leader at [University Hospital ](https://www.ukw.de/startseite/)[Würzburg](https://www.ukw.de/kliniken-zentren/)[](https://www.ukw.de/startseite/) and a Honorary Senior Research Fellow at [Imperial College London](https://www.imperial.ac.uk/). 
 
 Currently, in my postdoc I am focused on understanding the **higher-order non-linear mechanisms** that underpin brain dynamics and its role in health and disease.

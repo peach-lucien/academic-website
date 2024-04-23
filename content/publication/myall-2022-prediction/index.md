@@ -1,46 +1,21 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'Prediction of hospital-onset COVID-19 using networks of patient contact: an
-  observational study'
-subtitle: ''
-summary: ''
+title: 'Prediction of hospital-onset COVID-19 infections using dynamic networks of
+  patient contact: an international retrospective cohort study'
 authors:
-- A Myall
-- J Price
-- R Peach
-- M Abbas
-- S Mookerjee
-- I Ahmad
-- D Ming
-- NJ Zhu
-- F Ramzan
-- A Weisse
+- Ashleigh Myall
+- James R Price
+- Robert L Peach
+- Mohamed Abbas
+- Sid Mookerjee
+- Nina Zhu
+- Isa Ahmad
+- Damien Ming
+- Farzan Ramzan
+- Daniel Teixeira
 - ' others'
-tags: []
-categories: []
 date: '2022-01-01'
-lastmod: 2022-08-18T09:19:58+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-08-18T07:19:57.946989Z'
+publishDate: '2024-04-23T16:06:46.420147Z'
 publication_types:
-- '2'
-abstract: ''
-publication: '*International Journal of Infectious Diseases*'
+- article-journal
+publication: '*The Lancet Digital Health*'
 ---

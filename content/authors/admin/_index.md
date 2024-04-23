@@ -43,7 +43,7 @@ highlight_name: true
 title: Robert Peach
 email: robertlucienpeach@gmail.com
 ---
-Researcher fascninated by the emergence of neural dynamics from neural network structure and their role in behaviourally relevant computation.
+Researcher fascinated by the emergence of neural dynamics from neural network structure and their role in behaviourally relevant computation.
 
 I develop the theory and build mathematical tools to explore the role of higher-order inteactions and their role in driving non-linearity and compositionality in neural dynamics.
 

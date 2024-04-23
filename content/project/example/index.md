@@ -1,36 +1,41 @@
 ---
-slides: example
-url_pdf: ""
-summary: The widespread adoption of online courses opens opportunities for
-  analysing learner behaviour and optimising web-based learning adapted to
-  observed usage. In collaboration with the Prof. David Lefevre and the [EdTech
-  group in Imperial Business
-  School](https://www.imperial.ac.uk/business-school/about-us/edtech-lab/), I
-  began working on data extracted from the learning management system. Our aim
-  was to first understand how students transitioned through courses, and then to
-  find ways to predict performance and later optimise the student experience.
-url_video: ""
-date: 2016-04-27T00:00:00.000Z
-featured: false
-external_link: ""
-url_slides: ""
-title: Learning Analytics
+title: Example Project
+summary: An example of using the in-built project page.
 tags:
-  - learninganalytics
-categories:
-  - learninganalytics
+  - Deep Learning
+date: '2016-04-27T00:00:00Z'
+
+# Optional external URL for project (replaces project detail page).
+external_link: ''
+
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-image:
-  caption: Unsupervised learning of student similarity reveals behavioural clusters.
-  focal_point: Smart
-  filename: featured.png
-url_code: ""
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
 ---
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-\
-In our first investigation we introduced a mathematical framework for the analysis of time-series of online learner engagement, which allows the identification of clusters of learners with similar online temporal behaviour directly from the raw data without prescribing a priori subjective reference behaviours. The method uses a dynamic time warping kernel to create a pair-wise similarity between time-series of learner actions, and combines it with an unsupervised multiscale graph clustering algorithm to identify groups of learners with similar temporal behaviour. To showcase our approach, we analyse task completion data from a cohort of learners taking an online post-graduate degree at Imperial Business School. Our analysis reveals clusters of learners with statistically distinct patterns of engagement, from distributed to massed learning, with different levels of regularity, adherence to pre-planned course structure and task completion. The approach also reveals outlier learners with highly sporadic behaviour. A posteriori comparison against student performance shows that, whereas high-performing learners are spread across clusters with diverse temporal engagement, low performers are located significantly in the massed learning cluster, and our unsupervised clustering identifies low performers more accurately than common machine learning classification methods trained on temporal statistics of the data. Finally, we test the applicability of the method by analysing two additional data sets: a different cohort of the same course, and time-series of different format from another university.
+Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+
+Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+
+Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+
+Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.

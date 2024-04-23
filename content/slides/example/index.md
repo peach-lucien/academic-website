@@ -1,169 +1,36 @@
 ---
-title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
-authors: []
-tags: []
-categories: []
-date: '2019-02-05T00:00:00Z'
-slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
-  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
-  #   Light style: github. Dark style: dracula (default).
-  highlight_style: dracula
+slides: example
+url_pdf: ""
+summary: The widespread adoption of online courses opens opportunities for
+  analysing learner behaviour and optimising web-based learning adapted to
+  observed usage. In collaboration with the Prof. David Lefevre and the [EdTech
+  group in Imperial Business
+  School](https://www.imperial.ac.uk/business-school/about-us/edtech-lab/), I
+  began working on data extracted from the learning management system. Our aim
+  was to first understand how students transitioned through courses, and then to
+  find ways to predict performance and later optimise the student experience.
+url_video: ""
+date: 2016-04-27T00:00:00.000Z
+featured: false
+external_link: ""
+url_slides: ""
+title: Learning Analytics
+tags:
+  - learninganalytics
+categories:
+  - learninganalytics
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
+image:
+  caption: Unsupervised learning of student similarity reveals behavioural clusters.
+  focal_point: Smart
+  filename: featured.png
+url_code: ""
 ---
 
-# Create slides in Markdown with Wowchemy
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
-
----
-
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
-
----
-
-## Controls
-
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://revealjs.com/pdf-export/)
-
----
-
-## Code Highlighting
-
-Inline code: `variable`
-
-Code block:
-
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
-
----
-
-## Math
-
-In-line math: $x + y = z$
-
-Block math:
-
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
-
----
-
-## Fragments
-
-Make content appear incrementally
-
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
-
-Press `Space` to play!
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-
----
-
-A fragment can accept two optional parameters:
-
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
-
----
-
-## Speaker Notes
-
-Add speaker notes to your presentation
-
-```markdown
-{{%/* speaker_note */%}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{< /speaker_note >}}
-
----
-
-## Themes
-
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
-
----
-
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
-
----
-
-{{< slide background-image="/media/boards.jpg" >}}
-
-## Custom Slide
-
-Customize the slide style and background
-
-```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
-
----
-
-## Custom CSS Example
-
-Let's make headers navy colored.
-
-Create `assets/css/reveal_custom.css` with:
-
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
-
----
-
-# Questions?
-
-[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
-
-[Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
+\
+In our first investigation we introduced a mathematical framework for the analysis of time-series of online learner engagement, which allows the identification of clusters of learners with similar online temporal behaviour directly from the raw data without prescribing a priori subjective reference behaviours. The method uses a dynamic time warping kernel to create a pair-wise similarity between time-series of learner actions, and combines it with an unsupervised multiscale graph clustering algorithm to identify groups of learners with similar temporal behaviour. To showcase our approach, we analyse task completion data from a cohort of learners taking an online post-graduate degree at Imperial Business School. Our analysis reveals clusters of learners with statistically distinct patterns of engagement, from distributed to massed learning, with different levels of regularity, adherence to pre-planned course structure and task completion. The approach also reveals outlier learners with highly sporadic behaviour. A posteriori comparison against student performance shows that, whereas high-performing learners are spread across clusters with diverse temporal engagement, low performers are located significantly in the massed learning cluster, and our unsupervised clustering identifies low performers more accurately than common machine learning classification methods trained on temporal statistics of the data. Finally, we test the applicability of the method by analysing two additional data sets: a different cohort of the same course, and time-series of different format from another university.
